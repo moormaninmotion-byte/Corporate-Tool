@@ -1,0 +1,5 @@
+{
+  "name": "Satirical Corporate Toolkit",
+  "description": "A satirical AI toolkit for the modern corporate warrior. Translate BS, explain buzzwords, generate jargon, and sanitize your rants into HR-approved emails using the Gemini API.",
+  "requestFramePermissions": []
+}
